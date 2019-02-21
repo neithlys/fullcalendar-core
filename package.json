@@ -1,0 +1,56 @@
+{
+  "_from": "@fullcalendar/core",
+  "_id": "@fullcalendar/core@4.0.0-beta.4",
+  "_inBundle": false,
+  "_integrity": "sha512-mrS937dSJd2mbKfPWUOyibIggXZOF8zqJXti9FYxPKQDW3ohELqEksNGJ2jP136bmsi3I03J1EzaUwikUIXraw==",
+  "_location": "/@fullcalendar/core",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@fullcalendar/core",
+    "name": "@fullcalendar/core",
+    "escapedName": "@fullcalendar%2fcore",
+    "scope": "@fullcalendar",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@fullcalendar/core/-/core-4.0.0-beta.4.tgz",
+  "_shasum": "65294e3ac60fca0f845bb644a212564ccebbc0e8",
+  "_spec": "@fullcalendar/core",
+  "_where": "D:\\LyLapThien\\calendar\\client",
+  "author": {
+    "name": "Adam Shaw",
+    "email": "arshaw@arshaw.com",
+    "url": "http://arshaw.com/"
+  },
+  "bugs": {
+    "url": "https://fullcalendar.io/reporting-bugs"
+  },
+  "bundleDependencies": false,
+  "copyright": "2019 Adam Shaw",
+  "deprecated": false,
+  "description": "Full-sized drag & drop event calendar",
+  "homepage": "https://fullcalendar.io/",
+  "keywords": [
+    "calendar",
+    "event",
+    "full-sized"
+  ],
+  "license": "MIT",
+  "main": "main.js",
+  "name": "@fullcalendar/core",
+  "releaseDate": "2019-02-06",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neithlys/fullcalendar-core.git"
+  },
+  "title": "FullCalendar",
+  "types": "main.d.ts",
+  "version": "4.0.0-beta.4"
+}
