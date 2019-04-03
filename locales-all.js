@@ -1,5 +1,5 @@
 /*!
-@fullcalendar/core v4.0.0-beta.4
+@fullcalendar/core v4.0.1
 Docs & License: https://fullcalendar.io/
 (c) 2019 Adam Shaw
 */
