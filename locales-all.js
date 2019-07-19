@@ -1,5 +1,5 @@
 /*!
-FullCalendar Core Package v4.2.0
+@fullcalendar/core v4.0.1
 Docs & License: https://fullcalendar.io/
 (c) 2019 Adam Shaw
 */
@@ -458,7 +458,7 @@ Docs & License: https://fullcalendar.io/
         dir: 'rtl',
         buttonText: {
             prev: "قبلی",
-            next: "بعدی",
+            nex: "بعدی",
             today: "امروز",
             month: "ماه",
             week: "هفته",
@@ -563,9 +563,9 @@ Docs & License: https://fullcalendar.io/
             doy: 4 // The week that contains Jan 4th is the first week of the year.
         },
         buttonText: {
-            prev: "Ant",
-            next: "Seg",
-            today: "Hoxe",
+            prevText: "Ant",
+            nextText: "Seg",
+            currentText: "Hoxe",
             month: "Mes",
             week: "Semana",
             day: "Día",
@@ -1003,9 +1003,9 @@ Docs & License: https://fullcalendar.io/
     var _m48 = {
         code: "pt-br",
         buttonText: {
-            prev: "Anterior",
-            next: "Próximo",
-            today: "Hoje",
+            prevText: "Anterior",
+            nextText: "Próximo",
+            currentText: "Hoje",
             month: "Mês",
             week: "Semana",
             day: "Dia",
@@ -1026,9 +1026,9 @@ Docs & License: https://fullcalendar.io/
             doy: 4 // The week that contains Jan 4th is the first week of the year.
         },
         buttonText: {
-            prev: "Anterior",
-            next: "Seguinte",
-            today: "Hoje",
+            prevText: "Anterior",
+            nextText: "Seguinte",
+            currentText: "Hoje",
             month: "Mês",
             week: "Semana",
             day: "Dia",

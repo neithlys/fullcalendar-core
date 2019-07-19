@@ -13,7 +13,7 @@
         dir: 'rtl',
         buttonText: {
             prev: "قبلی",
-            next: "بعدی",
+            nex: "بعدی",
             today: "امروز",
             month: "ماه",
             week: "هفته",
